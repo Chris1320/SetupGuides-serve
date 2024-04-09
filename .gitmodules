@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/Chris1320/SetupGuides.git
